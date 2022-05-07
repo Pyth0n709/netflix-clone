@@ -1,11 +1,20 @@
 import React from 'react';
 import './App.css';
+// Import child elements
+import Homescreen from './Homescreen/Homescreen';
+
+
 
 function App() {
   return (
     //BEM naming convention
     <div className="app">
-        <h1>Let's build netflix!</h1>
+        
+        <Homescreen />
+
+        
+
+        
     </div>
   );
 }
