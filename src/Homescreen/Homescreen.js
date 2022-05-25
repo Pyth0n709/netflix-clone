@@ -10,7 +10,7 @@ function Homescreen() {
     <div className='homescreen'>
         <Navbar />
 
-        {/* <Banner /> */}
+        <Banner />
 
         {/* <Row /> */}
     </div>
