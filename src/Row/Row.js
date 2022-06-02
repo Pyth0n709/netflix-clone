@@ -9,4 +9,4 @@ function Row() {
   )
 }
 
-export default Row
+export default Row;
